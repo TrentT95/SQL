@@ -1,0 +1,10 @@
+CREATE TABLE Books (id Integer Primary Key, name TEXT, rating INTEGER);
+INSERT INTO Books Values (1, "Holes", 5);
+INSERT INTO Books Values (2, "Hatchet", 4);
+INSERT INTO Books Values (3, "Saw", 3)
+This is my first project i have ever done using SQL
+Line 1 is the command to creat a table called books which i will be using to rate some books i read in my early childhood.
+Line 2 is the command to add holes to the first row on the table and rate it at 5.
+Line 3 is the command to add hatchet to the table on row 2 and rate it at 4.
+Line 4 is the command to add saw to the table on row 3 and rate it at 3.
+I spent about 30 minutes doing this table, maybe that's not fast but it was my first time and i enjoyed learning it.
